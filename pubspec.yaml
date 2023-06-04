@@ -30,6 +30,8 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   get: 4.6.5
+  permission_handler: ^10.2.0
+  flutter_sms_inbox: ^1.0.3
 
   flutter:
     sdk: flutter

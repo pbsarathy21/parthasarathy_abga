@@ -1,5 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.parthasarathy_abga">
+    
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    
    <application
         android:label="parthasarathy_abga"
         android:name="${applicationName}"
